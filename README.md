@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Psycho
+Author - Psycho (sam22jha@gmail.com)
